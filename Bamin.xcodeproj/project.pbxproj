@@ -13,6 +13,7 @@
 		045E27D82877A79D00A95FD4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 045E27D62877A79D00A95FD4 /* Main.storyboard */; };
 		045E27DA2877A79F00A95FD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 045E27D92877A79F00A95FD4 /* Assets.xcassets */; };
 		045E27DD2877A79F00A95FD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 045E27DB2877A79F00A95FD4 /* LaunchScreen.storyboard */; };
+		045E27E52877B5DC00A95FD4 /* GithubTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045E27E42877B5DC00A95FD4 /* GithubTestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		045E27D92877A79F00A95FD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		045E27DC2877A79F00A95FD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		045E27DE2877A79F00A95FD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		045E27E42877B5DC00A95FD4 /* GithubTestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubTestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				045E27D02877A79D00A95FD4 /* AppDelegate.swift */,
 				045E27D22877A79D00A95FD4 /* SceneDelegate.swift */,
 				045E27D42877A79D00A95FD4 /* ViewController.swift */,
+				045E27E42877B5DC00A95FD4 /* GithubTestViewController.swift */,
 				045E27D62877A79D00A95FD4 /* Main.storyboard */,
 				045E27D92877A79F00A95FD4 /* Assets.xcassets */,
 				045E27DB2877A79F00A95FD4 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				045E27D52877A79D00A95FD4 /* ViewController.swift in Sources */,
 				045E27D12877A79D00A95FD4 /* AppDelegate.swift in Sources */,
 				045E27D32877A79D00A95FD4 /* SceneDelegate.swift in Sources */,
+				045E27E52877B5DC00A95FD4 /* GithubTestViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
